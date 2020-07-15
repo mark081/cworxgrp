@@ -1,3 +1,8 @@
+#main {
+    background-color: bisque;
+}
+
 .mark li {
-  color: blue;
+    color: #2255a8;
+    background-color: rgb(300, 217, 177);
 }
